@@ -13,7 +13,8 @@
 - **Input**: 연속된 2장의 이미지 (6-channel Input: $t_{-1}$ frame + $t_{current}$ frame)
 - **Output**: 차량 3대에 대한 존재 확률 및 Bounding Box 좌표 (총 15개 값 예측)
 
-## 📂 Project Structure
+## 📂 Project Structure 
+=> 파일 구조를 이렇게 만든 후 코드를 돌려주세요!
 ```bash
 Rail-Detection/
 │
