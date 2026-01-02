@@ -1,0 +1,25 @@
+# === 1. 데이터 및 큰 파일 무시 ===
+# imagesLevelCrossing 폴더 통째로 무시
+imagesLevelCrossing/
+data/
+datasets/
+
+# 학습된 모델 파일 (.pth) 무시 (필요하면 나중에 따로 공유)
+*.pth
+*.pt
+
+# === 2. 시스템 및 임시 파일 무시 ===
+# 파이썬 자동 생성 파일
+__pycache__/
+*.pyc
+
+# 주피터 노트북/Colab 임시 파일
+.ipynb_checkpoints/
+
+# 맥(Mac) 쓰는 사람들이 생기는 파일
+.DS_Store
+
+# === 3. 가상환경 폴더 (만약 쓴다면) ===
+venv/
+env/
+.env
