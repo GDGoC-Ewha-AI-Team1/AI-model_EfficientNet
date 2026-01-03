@@ -139,6 +139,6 @@ Name: [박선영]
 
 Contact: [psuny17@ewha.ac.kr]
 
-GitHub: [sunyp17]
+GitHub: [psuny17]
 
 ---
